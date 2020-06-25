@@ -2,9 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ConnectMongo/.idea/ConnectMongo.iml" filepath="$PROJECT_DIR$/../ConnectMongo/.idea/ConnectMongo.iml" />
       <module fileurl="file://$PROJECT_DIR$/../MyProject/.idea/MyProject.iml" filepath="$PROJECT_DIR$/../MyProject/.idea/MyProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/../WithListAndDict/.idea/WithListAndDict.iml" filepath="$PROJECT_DIR$/../WithListAndDict/.idea/WithListAndDict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WorkWithKafka/.idea/WorkWithKafka.iml" filepath="$PROJECT_DIR$/../WorkWithKafka/.idea/WorkWithKafka.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/WorkWithPDF.iml" filepath="$PROJECT_DIR$/.idea/WorkWithPDF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../WorkWithSpark/.idea/WorkWithSpark.iml" filepath="$PROJECT_DIR$/../WorkWithSpark/.idea/WorkWithSpark.iml" />
     </modules>
   </component>
 </project>

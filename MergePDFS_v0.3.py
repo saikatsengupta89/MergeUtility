@@ -131,6 +131,7 @@ def createPageWithNumbers (pageNum):
     # create a new PDF with Reportlab
     can = canvas.Canvas(packet, pagesize=letter)
     can.setFontSize(8)
+    can.setPageSize()
     can.drawString(770, 10, str(pageNum))
     can.save()
     return packet
